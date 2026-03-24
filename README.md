@@ -3,5 +3,5 @@ Assignment repository for UNT CSCE1015
 ## EUID
 jjf0152
 
-##Professor
+## Professor
 Yashu
