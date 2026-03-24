@@ -1,8 +1,9 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-## jjf0152
+## EUID
+jjf0152
 
 
 
-## Yashu
+Professor
 $(Yashu)
